@@ -1,5 +1,5 @@
-# visulization-dronestre.am
-Visulisation for dronestre.am
+# visualization-dronestre.am
+Visualisation for dronestre.am
 
 [Demo page ](http://zag.github.io/drone.am/)
 ![alt text](http://zag.github.io/drone.am/screenshotm.jpg "Demo")
